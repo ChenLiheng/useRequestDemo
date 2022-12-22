@@ -1,0 +1,31 @@
+{
+    "miniprogramRoot": "dist/",
+    "projectname": "useRequestDemo",
+    "description": "test",
+    "appid": "wx6a5491a7c8024cd4",
+    "setting": {
+        "urlCheck": true,
+        "es6": false,
+        "enhance": false,
+        "compileHotReLoad": false,
+        "postcss": false,
+        "minified": false,
+        "babelSetting": {
+            "ignore": [],
+            "disablePlugins": [],
+            "outputPath": ""
+        }
+    },
+    "compileType": "miniprogram",
+    "libVersion": "2.29.0",
+    "srcMiniprogramRoot": "dist/",
+    "packOptions": {
+        "ignore": [],
+        "include": []
+    },
+    "condition": {},
+    "editorSetting": {
+        "tabIndent": "insertSpaces",
+        "tabSize": 4
+    }
+}
